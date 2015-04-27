@@ -4,4 +4,4 @@ README
 README
 README
 README
-redmine_2
+redmine_22
